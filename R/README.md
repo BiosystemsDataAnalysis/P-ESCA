@@ -6,7 +6,7 @@ This R package implements the pESCA (penalized exponential familay simultaneous 
 You can install the released version of RpESCA:
 
 ``` r
-devtools::install_github("BiosystemsDataAnalysis/P-ESCA/R")
+devtools::install_git("https://github.com/BiosystemsDataAnalysis/P-ESCA",subdir="R")
 ```
 
 ## to do list
